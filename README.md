@@ -48,7 +48,7 @@
 	- 댓글을 작성한 사용자는 댓글을 삭제할 수 있다.
 
 # ERD
-![erd](https://github.com/trevivom/CommunityDev/assets/107251548/aead77e2-9558-475c-a64f-bd34240fcb2c)
+![erd](https://github.com/trevivom/communitydev2/assets/107251548/ad432e95-102b-4a06-852b-af5b8b2adb8f)
 
 ## Trouble Shooting
 [go to the trouble shooting section](trouble_shooting.md)
